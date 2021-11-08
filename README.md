@@ -2,7 +2,7 @@
 
 ## Target
 
-Automatic and simple data sync script maker module.
+An automatic and simple data sync script maker module which helps to get rid of fussy and inflexible configuration of kettle steps.
 
 ## Functions
 
