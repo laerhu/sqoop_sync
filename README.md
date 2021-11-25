@@ -5,6 +5,7 @@
 An automatic and simple data sync script maker module which helps to get rid of fussy and inflexible configuration of kettle steps.
 
 ## Usage
+
 `sqoop_sync.sh tb1.conf 20211108063000`
 
 argument #1 is a config file containing business parameters such as connection url, hive schema or table name formation.
